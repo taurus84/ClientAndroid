@@ -1,7 +1,6 @@
 package se.mah.ae2513.myactivity;
 
 
-import android.app.Activity;
 import android.os.AsyncTask;
 import android.os.Bundle;
 import android.support.v7.app.ActionBarActivity;
